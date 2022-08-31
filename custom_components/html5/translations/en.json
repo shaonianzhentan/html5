@@ -1,0 +1,18 @@
+{
+  "title": "HTML5推送通知",
+  "config": {
+      "step": {
+          "user": {
+              "description": "",
+              "data": {
+                  "url": "推送地址",
+                  "token": "配置",
+              }
+          }
+      },
+      "error": {},
+      "abort": {
+          "single_instance_allowed": "仅允许单个配置."
+      }
+  }
+}
